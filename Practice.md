@@ -1,3 +1,3 @@
 #demo
 
-what is git?
+what is github?
